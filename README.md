@@ -26,7 +26,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/lekhas-fun-facts-generator.git
+   git clone https://github.com/Lekha-Shrri/Lekha-s-Fun-fact-generator.git
    ```
 
 2. **Navigate to the Project Directory:**
