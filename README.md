@@ -58,4 +58,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 ```
 
-Make sure to replace `https://github.com/your-username/lekhas-fun-facts-generator.git` with the actual URL of your GitHub repository. You can also customize the `Contributing` and `License` sections based on your preferences and requirements.
